@@ -1,0 +1,7 @@
+for loop
+    int maximum
+    for loop
+        if varSekarang > maximum:
+            maximum = varSekarang
+
+    L[x] = maximum
